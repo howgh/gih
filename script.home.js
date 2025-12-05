@@ -1,91 +1,91 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
-import { getAuth, signInAnonymously, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
-import { getFirestore, collection, onSnapshot, setDoc, doc, query, getDocs, setLogLevel } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
-
-// setLogLevel('debug'); // KOMENTARI ATAU HAPUS INI SEBELUM OBFUSCATION
-
-// --- 1. PENGAMBILAN VARIABEL GLOBAL (Versi Paling Aman) ---
-// Gunakan pengecekan standard 'typeof' yang lebih aman daripada 'globalThis'
-const initialAuthToken = typeof __initial_auth_token !== 'undefined' ? __initial_auth_token : null;
-const appId = typeof __app_id !== 'undefined' ? __app_id : 'default-app-id';
-const firebaseConfigRaw = typeof __firebase_config !== 'undefined' ? __firebase_config : null;
-
-let firebaseConfig = null;
-let app, db, auth;
-let currentUserId = null; 
-
-
-
-
-import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
 import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
 import { getFirestore, doc, setDoc, onSnapshot, increment, setLogLevel } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
-setLogLevel('Debug');
 
-const ERROR_APP_ID = "originalamanah-my-id"; 
-const FIREBASE_CONFIG = {
-apiKey: "AIzaSyDS6reCDJnak8YaUXs9tHx9c_sBg3G7hGY",
-authDomain: "global-project-fe765.firebaseapp.com",
-projectId: "global-project-fe765",
-storageBucket: "global-project-fe765.firebasestorage.app",
-messagingSenderId: "776529586347",
-appId: "1:776529586347:web:bb291d721d788fdaea2fee",
-measurementId: "G-YV9KS75YJF"};  
-let db, auth;
-const COUNTER_DOC_PATH = `/globalpro_counters/${ERROR_APP_ID}/counters/main_counter`;
+// setLogLevel('Debug');
 
-function formatCount(num) {
-if (num >= 1000000) {
-return (num / 1000000).toFixed(1).replace(/\.0$/, '') + 'jt';}
-if (num >= 100000) {
-return (num / 1000).toFixed(0) + 'rb';}
-if (num >= 1000) {
-return (num / 1000).toFixed(1).replace(/\.0$/, '') + 'k';}
-return num.toString();}
+// --- Bagian Obfuscated Dimulai ---
 
-async function initializeVisitorCounter() {
-try {
-const app = initializeApp(FIREBASE_CONFIG);
-db = getFirestore(app);
-auth = getAuth(app);     
-        
-await signInAnonymously(auth);
-console.log('Firebase auth (anonymous) successful.');
+// Utility untuk decoding string sederhana (Base64)
+const $S = (s) => atob(s);
 
-const counterRef = doc(db, COUNTER_DOC_PATH);
-const countElement = document.getElementById('visitor-count');
-        
-if (!countElement) {
-console.error("Elemen 'visitor-count' tidak ditemukan.");return;}
+// Variabel disingkat
+let d, a; // db, auth
 
-onSnapshot(counterRef, (doc) => {
-let count = 0;
-if (doc.exists()) {
-count = doc.data().count;}
-countElement.textContent = formatCount(count);
-console.log(`Visitor count displayed: ${count}`);
-}, (error) => {
-console.error("Error listening to counter snapshot: ", error);
-countElement.textContent = 'Error';});	  
-        
-await setDoc(counterRef, { count: increment(1) }, { merge: true });
-console.log('Visitor count incremented on refresh.');} 
-   
-catch (error) {
-console.error("Error initializing Firebase or visitor counter: ", error);
-const countElement = document.getElementById('visitor-count');
-if (countElement) {
-countElement.textContent = 'N/A';}}}
-document.addEventListener('DOMContentLoaded', initializeVisitorCounter);
+// ID Aplikasi & Konfigurasi Firebase disandikan
+const EAI = $S("b3JpZ2luYWxhbWFuaGFoLW15LWlk"); // originalamanah-my-id
+const FC = {
+    apiKey: $S("QUl6YVN5RFM2cmVDRGpuYWs4WXFFeHM5dEh4OWNfc0JnM0c3aEdZ"), // AIzaSyDS6reCDJnak8YaUXs9tHx9c_sBg3G7hGY
+    authDomain: "global-project-fe765.firebaseapp.com",
+    projectId: "global-project-fe765",
+    storageBucket: "global-project-fe765.firebasestorage.app",
+    messagingSenderId: "776529586347",
+    appId: $S("MTc3NjUyOTU4NjM0N3dlYmJiMjlkNzIxZDc4OGZkYWVhMmZlZQ=="), // 1:776529586347:web:bb291d721d788fdaea2fee
+    measurementId: "G-YV9KS75YJF"
+};
+const CDP = `/globalpro_counters/${EAI}/counters/main_counter`;
+const VIE = $S("dmlzaXRvci1jb3VudA=="); // visitor-count
 
-function enforceCleanUrl() {
-const currentPath = window.location.pathname;
-const currentUrl = window.location.href;    
-if (currentPath.endsWith('/') && currentPath.length > 1) {
-const cleanPath = currentPath.replace(/\/+$/, '');        
-const cleanUrl = window.location.origin + cleanPath + window.location.search + window.location.hash;
-console.log(`[URL CLEANING] Found slash at the end: ${currentUrl}`);
-console.log(`[URL CLEANING] Change URL without reloading: ${cleanUrl}`);        
-history.replaceState(null, null, cleanUrl);} 
-else {console.log(`[URL CLEANING] URL is clean or root URL: ${currentUrl}`);}}
-document.addEventListener('DOMContentLoaded', enforceCleanUrl);
+// Fungsi formatCount yang di-obfuscasi
+function fC(n) {
+    if (n >= 1e6) return (n / 1e6).toFixed(1).replace(/\.0$/, '') + $S("anQ="); // 'jt'
+    if (n >= 1e5) return (n / 1e3).toFixed(0) + $S("cmI="); // 'rb'
+    if (n >= 1e3) return (n / 1e3).toFixed(1).replace(/\.0$/, '') + 'k';
+    return n.toString();
+}
+
+// Fungsi initializeVisitorCounter yang di-obfuscasi
+async function iVC() {
+    try {
+        const app = initializeApp(FC);
+        d = getFirestore(app);
+        a = getAuth(app);
+
+        await signInAnonymously(a);
+        console.log($S("RmlyZWJhc2UgYXV0aCAoYW5vbnltb3VzKSBzdWNjZXNzZnVsLg==")); // 'Firebase auth (anonymous) successful.'
+
+        const cR = doc(d, CDP); // counterRef
+        const cE = document.getElementById($S(VIE)); // countElement
+
+        if (!cE) {
+            console.error($S("RWxlbWVuICd2aXNpdG9yLWNvdW50JyB0aWRhayBkaXRlbXVrYW4u")); // "Elemen 'visitor-count' tidak ditemukan."
+            return;
+        }
+
+        onSnapshot(cR, (doc) => {
+            let c = doc.exists() ? doc.data().count : 0;
+            cE.textContent = fC(c);
+            console.log($S("VmlzaXRvciBjb3VudCBkaXNwbGF5ZWQ6IA==") + c); // 'Visitor count displayed: '
+        }, (e) => {
+            console.error($S("RXJyb3IgbGlzdGVuaW5nIHRvIGNvdW50ZXIgc25hcHNob3Q6IA=="), e); // "Error listening to counter snapshot: "
+            cE.textContent = $S("RXJyb3I="); // 'Error'
+        });
+
+        await setDoc(cR, { count: increment(1) }, { merge: true });
+        console.log($S("VmlzaXRvciBjb3VudCBpbmNyZW1lbnRlZCBvbiByZWZyZXNoLg==")); // 'Visitor count incremented on refresh.'
+    }
+    catch (e) {
+        console.error($S("RXJyb3IgaW5pdGlhbGl6aW5nIEZpcmViYXNlIG9yIHZpc2l0b3IgY291bnRlcjog"), e); // "Error initializing Firebase or visitor counter: "
+        const cE = document.getElementById($S(VIE));
+        if (cE) cE.textContent = $S("Ti9B"); // 'N/A'
+    }
+}
+document.addEventListener('DOMContentLoaded', iVC);
+
+// Fungsi enforceCleanUrl yang di-obfuscasi
+function eCU() {
+    const cP = window.location.pathname; // currentPath
+    const cU = window.location.href; // currentUrl
+
+    if (cP.endsWith('/') && cP.length > 1) {
+        const cP2 = cP.replace(/\/+$/, ''); // cleanPath
+        const cU2 = window.location.origin + cP2 + window.location.search + window.location.hash; // cleanUrl
+        console.log($S("W1VSTDwgQ0xFQU5JTkddIEZvdW5kIHNsYXNoIGF0IHRoZSBlbmQ6IA==") + cU); // "https://www.youtube.com/watch?v=nU4yxyd4bRs Found slash at the end: "
+        console.log($S("W1VSTDwgQ0xFQU5JTkddIENoYW5nZSBVUkwgd2l0aG91dCByZWxvYWRpbmc6IA==") + cU2); // "https://www.youtube.com/watch?v=nU4yxyd4bRs Change URL without reloading: "
+        history.replaceState(null, null, cU2);
+    } else {
+        console.log($S("W1VSTDwgQ0xFQU5JTkddIFVSTDwgaXMgY2xlYW4gb3Igcm9vdCBVUkw6IA==") + cU); // "https://www.youtube.com/watch?v=nU4yxyd4bRs URL is clean or root URL: "
+    }
+}
+document.addEventListener('DOMContentLoaded', eCU);
+// --- Bagian Obfuscated Selesai ---
