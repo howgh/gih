@@ -1,4 +1,23 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
+import { getAuth, signInAnonymously, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
+import { getFirestore, collection, onSnapshot, setDoc, doc, query, getDocs, setLogLevel } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
+
+// setLogLevel('debug'); // KOMENTARI ATAU HAPUS INI SEBELUM OBFUSCATION
+
+// --- 1. PENGAMBILAN VARIABEL GLOBAL (Versi Paling Aman) ---
+// Gunakan pengecekan standard 'typeof' yang lebih aman daripada 'globalThis'
+const initialAuthToken = typeof __initial_auth_token !== 'undefined' ? __initial_auth_token : null;
+const appId = typeof __app_id !== 'undefined' ? __app_id : 'default-app-id';
+const firebaseConfigRaw = typeof __firebase_config !== 'undefined' ? __firebase_config : null;
+
+let firebaseConfig = null;
+let app, db, auth;
+let currentUserId = null; 
+
+
+
+
+import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
 import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
 import { getFirestore, doc, setDoc, onSnapshot, increment, setLogLevel } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
 setLogLevel('Debug');
